@@ -63,6 +63,12 @@
   background-size: cover !important;
 }
 
+.btn {
+  width: 150px;
+  padding: 0px;
+  margin-top: 3px;
+}
+
 /*Menu*/
 
 .menu {
@@ -198,6 +204,6 @@ footer {
 }
 
 .business-hours {
-  color: #333;
+  color: #000;
   text-align: center;
 }
